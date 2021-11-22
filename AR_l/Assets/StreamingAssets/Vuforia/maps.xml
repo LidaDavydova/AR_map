@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="eastern_ancestry" size="1.000000 0.707056" />
+    <ImageTarget name="sport" size="1.000000 0.739244" />
+    <ImageTarget name="geo1" size="1.000000 0.770518" />
+    <ImageTarget name="agriculture" size="1.000000 0.750219" />
+    <ImageTarget name="nature_districs" size="1.000000 0.665909" />
+    <ImageTarget name="nasel2" size="1.000000 0.763549" />
+    <ImageTarget name="nasel1" size="1.000000 0.706470" />
+    <ImageTarget name="western_ancestry" size="1.000000 0.904003" />
+    <ImageTarget name="plants" size="1.000000 0.711311" />
+    <ImageTarget name="animals" size="1.000000 0.708538" />
+    <ImageTarget name="district" size="10.000000 6.749763" />
+    <ImageTarget name="districts" size="1.000000 0.674976" />
+    <ImageTarget name="IT" size="1.000000 0.744384" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vost_zacam" size="1.000000 0.707056" />
+    <ImageTarget name="nature_zone" size="1.000000 0.707056" />
+    <ImageTarget name="vost_predcam" size="1.000000 0.707056" />
+    <ImageTarget name="soil" size="1.000000 0.707056" />
+    <ImageTarget name="parks" size="1.000000 0.707056" />
+    <ImageTarget name="climate" size="1.000000 0.707056" />
+    <ImageTarget name="predvol" size="1.000000 0.707056" />
+    <ImageTarget name="tectonic" size="1.000000 0.707056" />
+    <ImageTarget name="selxoz" size="1.000000 0.707056" />
+    <ImageTarget name="water-line" size="1.000000 0.707197" />
+    <ImageTarget name="energy" size="1.000000 0.707056" />
+    <ImageTarget name="sport" size="1.000000 0.707157" />
+    <ImageTarget name="promishl" size="1.000000 0.706872" />
+    <ImageTarget name="railway" size="1.000000 0.707056" />
+    <ImageTarget name="geo_polozh" size="1.000000 0.707157" />
+    <ImageTarget name="admin_region" size="1.000000 0.707056" />
+    <ImageTarget name="IT" size="1.000000 0.707157" />
+  </Tracking>
+</QCARConfig>
